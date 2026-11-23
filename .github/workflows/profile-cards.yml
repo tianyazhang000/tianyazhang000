@@ -1,0 +1,27 @@
+
+name: 更新个人数据仪表盘
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: 生成年度数据图表
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          cards: overview,momentum,contributions,lifetime,composition,rhythm,cadence,repositories,portfolio,languages
+          output-dir: assets
+          themes: light,dark
+          palette: green
+          commit: true
