@@ -17,35 +17,79 @@
 
 ---
 
+
 # 📊 2026 年度开发者仪表盘
 
-<p align="center">
-  <img src="./assets/overview.dark.svg" width="100%" />
-</p>
+### 🏆 年度数据总览
 
-<p align="center">
-  <img src="./assets/contributions.dark.svg" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="./assets/composition.dark.svg" width="100%" />
-</p>
+### 📈 年度贡献趋势
 
-<p align="center">
-  <img src="./assets/rhythm.dark.svg" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg">
+  <img src="./assets/momentum.light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="./assets/cadence.dark.svg" width="100%" />
-</p>
+### 🔥 贡献热力图 · 3D 日历
 
-<p align="center">
-  <img src="./assets/languages.dark.svg" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="./assets/repositories.dark.svg" width="100%" />
-</p>
+### 📅 历年贡献记录
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
+  <img src="./assets/lifetime.light.svg" width="100%">
+</picture>
+
+### 🧩 代码贡献组成
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg">
+  <img src="./assets/composition.light.svg" width="100%">
+</picture>
+
+### ⏰ 开发活跃时间分布
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg">
+  <img src="./assets/rhythm.light.svg" width="100%">
+</picture>
+
+### ⚡ Commit 时间分布
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg">
+  <img src="./assets/cadence.light.svg" width="100%">
+</picture>
+
+### 💻 编程语言分布
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+  <img src="./assets/languages.light.svg" width="100%">
+</picture>
+
+### 🏅 活跃仓库排行榜
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg">
+  <img src="./assets/repositories.light.svg" width="100%">
+</picture>
+
+### 🚀 项目成长时间线
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio.dark.svg">
+  <img src="./assets/portfolio.light.svg" width="100%">
+</picture>
+
 
 ---
 
