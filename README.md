@@ -34,20 +34,6 @@
   <img src="./assets/momentum.light.svg" width="100%">
 </picture>
 
-### 🔥 贡献热力图 · 3D 日历
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
-  <img src="./assets/contributions.light.svg" width="100%">
-</picture>
-
-### 📅 历年贡献记录
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
-  <img src="./assets/lifetime.light.svg" width="100%">
-</picture>
-
 ### 🧩 代码贡献组成
 
 <picture>
@@ -60,13 +46,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg">
   <img src="./assets/rhythm.light.svg" width="100%">
-</picture>
-
-### ⚡ Commit 时间分布
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg">
-  <img src="./assets/cadence.light.svg" width="100%">
 </picture>
 
 ### 💻 编程语言分布
