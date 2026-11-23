@@ -1,54 +1,83 @@
-# 你好，我是 tianyazhang000 👋
+# 👋 你好，欢迎来到我的 GitHub！
 
-**Java / Go 后端开发者**，关注高并发、分布式系统与工程实践。
-目前在把项目从“能跑”推进到“可维护、可观测、可扩展”。
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=700&lines=AI+Infrastructure+%7C+LLM+Systems;NPU+Kernel+Optimization;AI+Agent+Engineering" />
+</p>
 
-- 🔭 当前在做：**InfraTech** —— 分享 AI Infra 知识与代码练习
-- 🌱 当前在学：Go 并发模型、分布式基础、RPC 框架设计、大模型推理优化
-- 💬 可以聊：Spring Boot、RPC、MySQL、Redis、系统设计、AI Infra
-- 📫 联系我：<你的邮箱> · <你的博客 / LinkedIn / X>
-
-## 📊 我的 GitHub 仪表盘
-
-<!-- 综合统计卡片：已移除 include_all_commits=true 以避免报错 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tianyazhang000&show_icons=true&hide_title=true&hide_border=true&locale=cn)
-
-<!-- 代码行数 (LOC) 卡片：需要先完成下方“GitHub Trends”的一次性注册 -->
-![Lines of Code](https://api.githubtrends.io/user/svg/tianyazhang000/langs?time_range=all_time&loc_metric=changed&theme=classic)
-
-<!-- 最常用的语言分布卡片 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianyazhang000&layout=compact&hide_border=true&locale=cn)
-
-## 技术栈
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 精选项目
-
-### [InfraTech](https://github.com/tianyazhang000/InfraTech)
-分享 AI Infra 知识与代码练习，涵盖 PyTorch、vLLM/SGLang、大模型基础与性能加速等方向。
-`Jupyter Notebook` `PyTorch` `AI Infra`
-
-### [clowder-ai](https://github.com/tianyazhang000/clowder-ai)
-Build AI teams, not just agents. 探索多智能体协作与 AI 团队构建的工程实践。
-`TypeScript` `AI Agents`
-
-### [minimind](https://github.com/tianyazhang000/minimind)
-从零训练 26M 参数小 GPT 的完整实践，记录数据、训练与推理全流程。
-`Python` `PyTorch` `LLM`
-
-### [RPC](https://github.com/tianyazhang000/RPC)
-从零实现一个轻量 RPC 框架，练习服务注册发现、序列化、网络通信与负载均衡。
-`Java` `Netty` `RPC`
+<p align="center">
+  **AI 基础设施 · 大模型系统 · 昇腾 NPU · AI Agent**
+</p>
 
 ---
-<small>最后更新：2026-11 · 统计数据每 4 小时自动缓存刷新</small>
+
+## 📊 2026 年度数据
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" width="100%" alt="年度数据总览" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" width="100%" alt="年度贡献热力图" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" width="100%" alt="编程语言分布" />
+</picture>
+
+---
+
+## 🛠️ 技术栈
+
+**AI 算子与高性能计算**
+
+`Ascend C` `CANN` `TileLang` `CUDA` `PyTorch` `NPU Kernel`
+
+**大模型与 AI 系统**
+
+`LLM` `MoE` `Inference` `Distributed Computing`
+
+**Agent 与自动化工程**
+
+`Python` `AI Agent` `Tool Calling` `Claude Code`
+
+**工程工具**
+
+`C/C++` `Linux` `Git` `Docker` `CMake`
+
+---
+
+## 🚀 精选项目
+
+| 项目 | 技术方向 | 核心工作 |
+|---|---|---|
+| NPU MoE Fused Expert MLP | MoE / Ascend NPU | 端到端算子融合与性能优化 |
+| 算子自动生成与性能演进 | AI Agent / Kernel | 算子生成、自动调试与优化 |
+| CANNBot Skills | Agent Engineering | 算子开发自动化工作流 |
+| LLM Agent 轨迹数据集 | LLM / Dataset | 工具调用轨迹与 Debug 数据构建 |
+
+---
+
+## 🎯 技术兴趣
+
+- 高性能 AI 算子与 Kernel 优化
+- 昇腾 NPU 与异构计算
+- MoE 架构与大模型推理
+- AI Agent 与自动化代码工程
+- Agent 训练数据与轨迹工程
+
+---
+
+## 🤝 联系我
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <i>让智能更高效，让工程持续进化。</i>
+</p>
